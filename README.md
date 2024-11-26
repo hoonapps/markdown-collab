@@ -4,9 +4,8 @@ This is a simple NestJS backend service with WebSocket integration.
 
 ## Features
 
-- WebSocket integration
+- simple WebSocket
 - Built with TypeScript
-- Modular structure for scalability
 
 ## Installation
 
